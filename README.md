@@ -1,4 +1,4 @@
-# SAP-BRIM-FICA
+# SAP BRIM & FICA
 SAP BRIM &amp; FICA End to End configuration
 
 - [ERP & SAP](ERP_&_SAP.md)
